@@ -1,0 +1,35 @@
+# Local development config (not needed for GitHub Pages)
+.claude/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*swo
+.vscode/
+.idea/
+*.sublime-*
+
+# GitHub metadata (local only — deployed via repo settings)
+.github/repository_description.txt
+.github/repository_topics.txt
+
+# Logs / build artifacts (not applicable — no build step)
+*.log
+npm-debug.log*
+dist/
+build/
+
+# Test / coverage (not applicable)
+coverage/
+.nyc_output/
+
+# Environment (not applicable — no backend)
+.env
+.env.*
+!.env.example
+
+# Misc
+*.tmp
+*.temp
+*.bak
