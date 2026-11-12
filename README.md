@@ -1,7 +1,7 @@
 # Glitch Lab — Geometric Image Processor
 
 <p align="center">
-  <a href="https://ayushshukla73.github.io/digital-geometric-glitch-art/"><strong>Live Demo</strong></a> •
+  <a href="https://ayushshukla73.github.io/digital-geometric-glitch/"><strong>Live Demo</strong></a> •
   <a href="#transformation-pipeline">Pipeline</a> •
   <a href="#usage">Usage</a> •
   <a href="#architecture">Architecture</a> •
